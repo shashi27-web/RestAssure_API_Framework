@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "role": "QA",
+      "name": "Shashi"
+    },
+    {
+      "id": "2",
+      "role": "Developer",
+      "name": "Alex"
+    },
+    {
+      "id": "Sh1",
+      "name": "Shashi",
+      "email": "shashi@test.com",
+      "username": "shashi"
+    }
+  ]
+}
