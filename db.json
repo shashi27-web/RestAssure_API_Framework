@@ -50,6 +50,11 @@
       "Phone": "123456",
       "name": "shashi",
       "location": "Mohali"
+    },
+    {
+      "id": "e874",
+      "empty": false,
+      "mapType": "java.util.HashMap"
     }
   ]
 }
