@@ -146,7 +146,7 @@ public class diffWayToCreatePostRequest {
     @Test(priority = 7)
     void testPostUsingExternalJSONFile() {
 
-        File file = new File(System.getProperty("user.dir") + "/src/test/resources/user.json");
+        File file = new File(STR."\{System.getProperty("user.dir")}/src/test/resources/user.json");
 // ✅ path to your JSON file
 
         id = given()
